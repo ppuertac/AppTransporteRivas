@@ -1,0 +1,26 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Servicio_de_mapa_para_geoprocesamiento_6098": {
+      "selected": false
+    },
+    "Mapa_transporte_Rivas_1640": {
+      "selected": false
+    },
+    "Mapa_transporte_Rivas_2575": {
+      "selected": true
+    },
+    "Mapa_transporte_Rivas_9332": {
+      "selected": false
+    },
+    "Mapa_transporte_Rivas_5439": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

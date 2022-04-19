@@ -1,0 +1,34 @@
+{
+  "splash": {
+    "splashContent": "<div> </div><div align=\"center\"><p>\n\t<img id=\"img_1560482577021\" src=\"https://surestea.org/wp-content/uploads/2020/10/ayuntamiento_rivas.jpg\" style=\"height: 100px; width: 100px;\" />\n</p><h3 style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 1);\">En esta aplicación, creada por el Ayuntamiento de Rivas-Vaciamadrid, usted podrá visualizar las paradas de autobús y las estaciones de bicicleta ya existentes en la ciudad, y compararlas con las que se han propuesto para crear en un futuro. Además, podrá observar el porcentaje de población con acceso cercano a ambos equipamientos (tanto el porcentaje actual como el porcentaje con las nuevas propuestas).</span></h3></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#000001",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "middle",
+    "size": {
+      "mode": "wh",
+      "wh": {
+        "w": 600,
+        "h": 400
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20se%20ha%20seleccionado%20ning%C3%BAn%20archivo",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#f50a0a",
+      "transparency": 0,
+      "text": "Aceptar"
+    }
+  }
+}

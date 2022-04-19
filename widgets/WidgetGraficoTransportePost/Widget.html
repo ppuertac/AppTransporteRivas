@@ -1,0 +1,22 @@
+<div id="cajaWidget2">
+    <div id="cajaGrande">
+        <h1 id="titulo">Accesibilidad al transporte tras propuesta</h1>
+        <div data-dojo-attach-point="cajaBotones2" id="cajabotones">
+        <button class="boton" data-dojo-attach-point ="boton1" data-dojo-attach-event="onclick: MostrarBus2">Paradas autobús</button>
+        <button class="boton" data-dojo-attach-point ="boton2" data-dojo-attach-event="onclick: MostrarBici2">Estaciones bicicleta</button>
+    </div>
+
+    <div data-dojo-attach-point="cajaBus2" id="cajabus" style="display: none;">
+        <h2 class="subtitulo">Porcentaje de población con acceso a autobús:</h2>
+        <div data-dojo-attach-point="cajaGauge2" id="cajaDelGauge2"></div>
+        <h2 data-dojo-attach-point="porcentajePoblacion2" style="font-weight:normal; color: white; padding-left: 10px;" id="indicador2"></h2>
+    </div>
+    
+    <div data-dojo-attach-point="cajaBici2" id="cajabici"  style="display: none;">
+        <h2 class="subtitulo">Porcentaje de población con acceso a bicicletas:</h2>
+        <div data-dojo-attach-point="cajaGaugeBicis2" id="cajaDelGaugeBicis2" class="cajasDelGauge"></div>
+        <h2 data-dojo-attach-point="porcentajePoblacionBicis2" style="font-weight:normal; color: white; padding-left: 10px;" id="indicadorBicis2"></h2>
+    </div>
+        
+    </div>
+</div>

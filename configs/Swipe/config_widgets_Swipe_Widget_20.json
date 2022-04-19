@@ -1,0 +1,30 @@
+{
+  "style": "vertical",
+  "layerState": {
+    "Mapa_transporte_Rivas_1640": {
+      "selected": true
+    },
+    "Mapa_transporte_Rivas_2575": {
+      "selected": false
+    },
+    "Mapa_transporte_Rivas_9332": {
+      "selected": true
+    },
+    "Mapa_transporte_Rivas_5439": {
+      "selected": false
+    },
+    "Servicio_de_mapa_para_geoprocesamiento_6098": {
+      "selected": false
+    }
+  },
+  "layer": "Mapa_transporte_Rivas_1640",
+  "isZoom": false,
+  "handleColor": "#f90303",
+  "layerMode": "mult",
+  "defaultLayers": [
+    "Mapa_transporte_Rivas_1640",
+    "Mapa_transporte_Rivas_9332"
+  ],
+  "invertPlacement": true,
+  "isHidePanel": true
+}

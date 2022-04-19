@@ -1,0 +1,93 @@
+
+.jimu-widget-widgetGraficoTransporte1 #cajaDelGauge2{
+    background-color: white;
+    color: white;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #cajaDelGaugeBicis2{
+    background-color: white;
+    color: white;
+}
+
+.jimu-widget-widgetGraficoTransporte1 .boton{
+    background-color: darkgray;
+    padding: 10px;
+    border-style: outset;
+    border-radius: 40px;
+    color: white;
+    font-size: small;
+    font-weight: normal;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #cajabotones{
+    display: flex;
+    justify-content: center;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #titulo{
+    font-weight: bold;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #cajabus{
+    padding: 30px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #cajabici{
+    padding: 30px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.jimu-widget-widgetGraficoTransporte1 .subtitulo{
+    padding-bottom: 10px;
+    font-weight: normal;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #cajaGrande{
+    width: 400px;
+    height: 430px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: red;
+}
+
+.jimu-widget-widgetGraficoTransporte1 .gaugeContainer{
+    color: white;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #dojox_gauges_AnalogGauge_0{
+    height: 400px;
+}
+
+
+.jimu-widget-widgetGraficoTransporte1 #dojox_gauges_AnalogGauge_1{
+    height: 400px;
+}
+
+
+.jimu-widget-widgetGraficoTransporte1 #dojox_gauges_AnalogGauge_2{
+    height: 400px;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #dojox_gauges_AnalogGauge_3{
+    height: 400px;
+}
+
+.jimu-widget-widgetGraficoTransporte1 #cajaGrande{
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+}
